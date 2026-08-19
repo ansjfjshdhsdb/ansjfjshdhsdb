@@ -20,7 +20,7 @@
 ###  Мой стек
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,react,nodejs,sqlite,firebase,supabase,nginx,linux,git,github,vscode" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=python,firebase,supabase" alt="Tech Stack" />
 </div>
 
 <br>
