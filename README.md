@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=Python+Developer;UKRAINE+RP+Bots+Creator;Game+API+Enthusiast;Reverse+Engineering+Explorer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&pause=1000&color=00FF99&center=true&vCenter=true&width=600&lines=Python+Developer;API;Reverse+Engineering" alt="Typing SVG" />
 </div>
 
 <h3 align="center">Код, API и автоматизация</h3>
