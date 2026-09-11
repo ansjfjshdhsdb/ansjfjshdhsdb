@@ -21,7 +21,7 @@
 
 ## Статистика GitHub
 <p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bibizyanov&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ansjfjshdhsdb&theme=radical" />
 </p>
 
 <br>
