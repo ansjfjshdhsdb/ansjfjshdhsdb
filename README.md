@@ -13,7 +13,7 @@
 *    **Основной фокус:** Разработка и оптимизация ботов для **UKRAINE RP** (и других ролеплей-проектов), автоматизация процессов и работа с API.
 *    **Интересы:** Игровые API, реверс-инжиниринг (Unity, хукинг, анализ памяти), обход клиентских ограничений и работа с бинарниками.
 *    **Бэкенд и инфраструктура:** Поднимаю стабильные API-роутеры, работаю с базами данных реального времени (Firestore, Supabase) и настраиваю reverse-proxy (Nginx/Caddy) на VPS.
-*    **Связь и кредиты:** Пишите в Telegram для сотрудничества. Оплата сообщений: 1 звезда за штуку. 
+*    **Связь:** Пишите в Telegram для сотрудничества. Оплата сообщений: 1 звезда за штуку. 
 
 ---
 
@@ -29,17 +29,16 @@
 
 ### GitHub Статистика
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-</div>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Bibizyanov&show_icons=true&theme=radical"/>
+</a>
 
 ---
 
 ### Связь со мной
 
 <div align="center">
-  <a href="https://t.me/delegate_t">
+  <a href="https://t.me/ob1zyan">
     <img src="https://img.shields.io/badge/Telegram-@delegate__t-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
 </div>
