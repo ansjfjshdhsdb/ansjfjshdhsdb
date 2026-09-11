@@ -19,9 +19,10 @@
 
 ###  Мой стек
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,firebase,supabase" alt="Tech Stack" />
-</div>
+## Статистика GitHub
+<p align="left">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Bibizyanov&theme=radical" />
+</p>
 
 <br>
 
